@@ -1,3 +1,9 @@
+# png files
+*.png
+
+# scaler & model files
+*.joblib
+
 # Dataset
 *.csv
 
