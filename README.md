@@ -22,7 +22,13 @@ The objective of this project is to detect credit card fraud by identifying susp
 
 It is strongly recommended to run this project inside a virtual environment to avoid dependency conflicts.
 
-### 1. Create and Activate Virtual Environment
+### 1. Extract the compressed file
+```bash
+tar xvf credit-card-fraud-detection.tar.xz 
+cd credit-card-fraud-detection
+```
+
+### 2. Create and Activate Virtual Environment
 
 **Linux / macOS:**
 
@@ -38,7 +44,7 @@ python -m venv venv
 .\venv\Scripts\Activate
 ```
 
-### 2. Install Dependencies
+### 3. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
