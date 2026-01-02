@@ -7,7 +7,7 @@ Contains all constants and configuration parameters
 RANDOM_STATE = 42
 
 # File paths
-DATA_PATH = '../data/creditcard_2023.csv'
+DATA_PATH = '../creditcard_2023.csv'
 MODEL_SAVE_DIR = '../models_saved/'
 OUTPUT_DIR = '../outputs/'
 
